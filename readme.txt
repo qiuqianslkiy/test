@@ -5,3 +5,4 @@ Git tracks changes.
 Git tracks changes two.
 Git tracks changes three.
 Git tracks changes four.
+Creating a new branch is quick.
